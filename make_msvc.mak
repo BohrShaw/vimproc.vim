@@ -1,6 +1,6 @@
 # WINDOWS BUILD SETTINGS.
 # For MSVC 11 you need to specify where the Win32.mak file is, e.g.:
-#	SDK_INCLUDE_DIR=C:\Program Files\Microsoft SDKs\Windows\v7.1\Include
+SDK_INCLUDE_DIR=C:\Program Files\Microsoft SDKs\Windows\v7.1A\Include
 # for build win64 version:
 # nmake -f make_msvc.mak CPU=AMD64
 
